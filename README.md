@@ -1,1 +1,1 @@
-# INeuron-Assignments
+# iNeuron-Assignments
